@@ -261,6 +261,7 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  text-align: left;
 }
 
 .footer-column h3 {
